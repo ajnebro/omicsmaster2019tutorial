@@ -1,6 +1,8 @@
 # Tutorial: "Multi-objective optimization with metaheuristics. Applications to Bioinformatics"
 
-This site contains stuff to be used in the tutorial I will give in the Omics Data Analysis Master of the University of Vic on 31th January 2019.
+This site contains stuff to be used in the tutorial I will give in the Omics Data Analysis Master of the University of Vic on 31th January 2019. 
+
+The slides for the tutoria are available [here](https://uma365-my.sharepoint.com/:b:/g/personal/ajnebro_uma_es/EeV9F14bPBBNjcjqs6Zai6cBACrUV4DcNLCfwSEZDhD0Mg?e=QpqWYu).
 
 In this tutorial we will learn:
 * What are metaheuristic techniques and why they are useful.
