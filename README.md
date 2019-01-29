@@ -30,3 +30,8 @@ IEEE/ACM Transactions on Computational Biology and Bioinformatics (2), 279-292. 
 * pyMSA: https://github.com/benhid/pyMSA
 * Sequoya: https://github.com/benhid/Sequoya
 * Gnuplot, R, … to plot data
+
+## Videos for installing the required software
+* [Installation of Anaconda Python and Pycharm] (Linux)(https://uma365-my.sharepoint.com/:v:/g/personal/ajnebro_uma_es/EZ8VQ82Q2NJAs6tOYjoOc0sBMoke57pt-wN4TSERQo0TKg?e=6VqHof)
+* [Installation of jMetalPy] (Linux)(https://uma365-my.sharepoint.com/:v:/g/personal/ajnebro_uma_es/EW-de6Lcyq1Jli9Zrk6og6UB6Er_PKFX0lddOc6812B0Lw?e=52dI6p)
+
