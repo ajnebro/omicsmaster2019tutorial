@@ -86,13 +86,16 @@ Resolving deltas: 100% (5708/5708), done.
 
 # Clone Sequoya
 (omics) F:\masteromics\jMetalPy>cd ..
-(omics) F:\masteromics>git clone https:/(github.com/benhid/sequoya
-
-(omics) F:\masteromics\jMetalPy>cd ..
+(omics) F:\masteromics>git clone https://github.com/benhid/sequoya
 
 (omics) F:\masteromics>git clone https://github.com/benhid/sequoya
 Cloning into 'sequoya'...
 ...
+
+# Install Sequoya
+(omics) F:\masteromics\jMetalPy>cd ..\sequoya
+(omics) F:\masteromics\sequoya>python setup.py install
+running install
 
 ```
 
